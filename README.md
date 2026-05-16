@@ -48,9 +48,6 @@ Soy un **especialista en desarrollo de software**, enfocado en la **lógica de s
 *   Desarrollo de un sistema dual para control preciso de tinacos de 1,100L, descartando cableado físico tradicional a favor de una **comunicación inalámbrica vía ESP-NOW** entre placas ESP32.
 *   Implementación de lógica de seguridad avanzada que sobrescribe comandos manuales si el nivel supera el 98%, evitando desbordamientos físicos.
 
-### [Analizador de Matrices Binarias (C)]
-*   Desarrollo de una herramienta algorítmica para calcular clausuras reflexivas, simétricas y transitivas, aplicando fundamentos lógicos de Matemáticas Discretas directamente al código.
-
 ---
 
 ## 📈 Mi Perfil Profesional
