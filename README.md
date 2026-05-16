@@ -1,50 +1,71 @@
-# ¡Hola! Soy Kevin Yael Maceda Martinez 👋
+¡Hola! Soy Kevin Yael Maceda Martinez 👋
+🎓 Estudiante de Ingeniería en Tecnologías de la Información | BUAP
+Soy un desarrollador con una sólida base en la lógica de sistemas y una gran ambición por especializarme en la creación de Aplicaciones, Software Avanzado e Inteligencia Artificial. Me destaco por mi capacidad para analizar problemas complejos, depurar código eficientemente y transformar diagramas conceptuales en soluciones tecnológicas escalables, tanto en software como en integraciones IoT.
 
-### 🎓 Estudiante de Ingeniería en Tecnologías de la Información | BUAP
-Soy un desarrollador enfocado en la **lógica de sistemas** y la **implementación de soluciones IoT**. Me destaco por mi capacidad para entender diagramas complejos, depurar código y gestionar la lógica de implementación en proyectos reales de hardware y software.
+🛠️ Stack Técnico y Áreas de Especialización
+💻 Desarrollo de Software y Web
+Lenguajes: Java, C/C++, Python (Con miras a la integración de modelos de IA).
 
----
+Web Frontend: HTML5, CSS3, JavaScript.
 
-## 🛠️ Stack Técnico Completo
+Bases de Datos: MySQL.
 
-### 💻 Desarrollo de Software y Web
-*   **Lenguajes:** Java, C/C++, Python.
-*   **Web Frontend:** HTML5, CSS3, JavaScript.
-*   **Bases de Datos:** MySQL.
-*   **Frameworks:** Interés en Flutter y Dart para desarrollo móvil.
+Frameworks & Móvil: Interés activo en Flutter y Dart para el desarrollo de aplicaciones multiplataforma.
 
-### 🔌 Internet de las Cosas (IoT) y Electrónica
-*   **Microcontroladores:** ESP32, Arduino.
-*   **Protocolos & Nube:** ESP-NOW (Comunicación punto a punto), Blynk (Integración móvil).
-*   **Sensores & Actuadores:** Sensores ultrasónicos (HC-SR04), módulos Relay, automatización de bombas de agua.
+🧠 Inteligencia Artificial & Herramientas Profesionales
+Integración IA: Uso estratégico de Inteligencia Artificial para la optimización y generación de código, con el objetivo a mediano plazo de desarrollar e integrar mis propios modelos de IA y agentes en aplicaciones reales.
 
-### 🎨 Diseño y Herramientas Profesionales
-*   **Productividad:** Figma, Canva.
-*   **Deploy:** Netlify, GitHub Pages.
-*   **IA:** Uso estratégico de Inteligencia Artificial para la optimización y generación de código, enfocándome en la depuración y arquitectura de la solución.
+Productividad & Diseño: Figma, Canva.
 
----
+Despliegue (Deploy): Netlify, GitHub Pages.
 
-## 🚀 Proyectos Reales & Logros
+🔌 Internet de las Cosas (IoT) y Electrónica
+Microcontroladores: ESP32, Arduino.
 
-### [Sistema de Monitoreo de Agua con Seguridad Fail-Safe]
-*   Desarrollo de un sistema dual con **ESP32** para control de tinacos de 1,100L.
-*   Implementación de lógica de seguridad que sobreescribe comandos manuales si el nivel supera el 98% para evitar desbordamientos.
+Protocolos & Nube: ESP-NOW (Comunicación inalámbrica punto a punto), Blynk (Integración móvil).
 
-### [Sitio Web Profesional: Exhibimuebles Valsequillo](https://exhibimuebles-valsequillo.netlify.app/)
-*   Proyecto freelance finalizado y pagado para un cliente real del sector mobiliario.
-*   Catálogo dinámico programado en **JavaScript Vanilla** para filtrado de categorías sin recarga de página.
+Hardware: Sensores ultrasónicos (HC-SR04), módulos Relay, automatización de sistemas físicos.
 
-### [Analizador de Matrices Binarias (C)]
-*   Desarrollo de una herramienta para calcular clausuras reflexivas, simétricas y transitivas en el contexto de Matemáticas Discretas.
+🚀 Proyectos Reales & Logros Destacados
+[FieldSense: Plataforma IoT & Full-Stack]
+Despliegue integral de una plataforma de telemetría IoT para el monitoreo de variables ambientales en tiempo real.
 
----
+Arquitectura robusta que integra hardware embebido (ESP32), una API REST (Flask) con persistencia en base de datos (MySQL) y un entorno web dinámico.
 
-## 📈 Mi Perfil Profesional
-*   **Enfoque:** Resultados realistas y directos. Me especializo en tomar una idea o un diagrama y convertirlo en un sistema funcional.
-*   **Objetivo:** Actualmente buscando oportunidades de **Prácticas Profesionales o Becarías** en empresas de tecnología y el sector automotriz en Puebla.
+🔗 Explorar el entorno interactivo en producción
 
-## 📫 Conectemos
-*   **LinkedIn:** [Kevin Yael Maceda Martinez](https://www.linkedin.com/in/kevin-yael-maceda-martinez-150a68382/)
-*   **WhatsApp:** [Contacto Directo](https://wa.me/525512345678)
-*   **Email:** kevin2000maceda@gmail.com
+[Sitio Web Comercial: Exhibimuebles Valsequillo]
+Proyecto freelance finalizado y pagado para un cliente real del sector mobiliario, demostrando capacidad para entregar software funcional a nivel empresarial.
+
+Implementación de un catálogo dinámico programado en JavaScript Vanilla que permite un filtrado de categorías de alta eficiencia sin recargar la página.
+
+🔗 Acceder al portal oficial del cliente
+
+[Plataforma Web Estática: Análisis Discográfico Temático]
+Desarrollo de una plataforma web dedicada a la exploración artística y discográfica (Proyecto enfocado en Joji).
+
+Integración de narrativa histórica con un análisis profundo de la evolución musical, utilizando diseño web estructurado y HTML/CSS modernos.
+
+🔗 Visitar la experiencia web
+
+[Sistema de Monitoreo de Agua con Seguridad Fail-Safe]
+Desarrollo de un sistema dual con ESP32 para control preciso de tinacos de 1,100L.
+
+Implementación de lógica de seguridad avanzada que sobrescribe comandos manuales si el nivel supera el 98%, evitando desbordamientos físicos.
+
+[Analizador de Matrices Binarias (C)]
+Desarrollo de una herramienta algorítmica para calcular clausuras reflexivas, simétricas y transitivas, aplicando fundamentos lógicos de Matemáticas Discretas directamente al código.
+
+📈 Mi Perfil Profesional
+Enfoque y Especialización: Resultados realistas y directos. Me dedico a fortalecer constantemente mis habilidades de programación para tomar requerimientos complejos y convertirlos en software funcional de alto impacto.
+
+Visión a Futuro: En transición activa hacia el desarrollo de Inteligencia Artificial y arquitecturas de software modernas, buscando retos que me permitan diseñar aplicaciones desde cero.
+
+Objetivo: Actualmente buscando oportunidades de Prácticas Profesionales o Becarías en empresas de tecnología y el sector automotriz en Puebla, donde pueda aportar valor y crecer profesionalmente hacia el área de IA y desarrollo de aplicaciones.
+
+📫 Conectemos
+LinkedIn: Kevin Yael Maceda Martinez
+
+WhatsApp: Contacto Directo (Asegúrate de actualizar este número con el tuyo)
+
+Email: kevin2000maceda@gmail.com
